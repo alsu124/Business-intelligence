@@ -9,6 +9,8 @@
 
 https://praktikum.yandex.ru/data-scientist
 
-СПИСОК УСПЕВАЕМОСТИ https://drive.google.com/file/d/1a7-R-j3bogx4UEwi4XRAFl98UJo1pH7S/view?usp=sharing
+СПИСОК УСПЕВАЕМОСТИ  https://docs.google.com/spreadsheets/d/1WHao-bX0kNjxDfP8cSJYo6TtfElsgiXdCM5LJHAzji4/edit?usp=sharing
+
+
 Тест
 https://docs.google.com/forms/d/1ERw-foIS7fqEo0GD0SXEE-2XhJaJ-MLF6qZ9ovaowmQ/edit?usp=sharing
