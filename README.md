@@ -14,3 +14,8 @@ https://praktikum.yandex.ru/data-scientist
 
 Тест
 https://docs.google.com/forms/d/1ERw-foIS7fqEo0GD0SXEE-2XhJaJ-MLF6qZ9ovaowmQ/edit?usp=sharing
+
+
+
+
+Работаем в программе Python Jupyter Notebook онлайн https://jupyter.org/try или устанавливаем локальную версию (инструкция есть в курсе
